@@ -4,7 +4,7 @@ I'm Eden — an eCommerce, fitness &amp; wellness brand copywriter.  I craft emo
 Brand: Iron Pulse — a fitness and wellness center  
 Goal: Welcome new subscribers, build engagement, and drive membership sales  
 Sequence: 8 emails, starting with a warm welcome and ending with a promotional offer  
-Result: Increased sales by **38%**  
+Result: Increased sales by ** 38% ** 
 Strategy & Approach:  
 - Crafted an emotionally-driven sequence using psychology and neuromarketing principles to connect with readers.  
 - Built trust and excitement gradually — each email nurtures curiosity, reinforces the benefits of Iron Pulse, and motivates subscribers to take action.  
